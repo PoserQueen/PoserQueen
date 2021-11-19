@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PoserQueen
 - 👀 I’m interested in Maayan
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 PoserQueen/PoserQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
